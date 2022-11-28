@@ -1,6 +1,6 @@
 test 1
 test 2
-22
-
+test 3
 test 4
-test5
+test 5
+Git has a mutable index called stage.
